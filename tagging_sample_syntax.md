@@ -3,7 +3,7 @@
 copyright:
 
   years: 2018, 2019
-lastupdated: "2019-01-28"
+lastupdated: "2019-09-13"
 
 keywords: sample tags, tags example
 
@@ -25,6 +25,6 @@ You can use tags to help you organize and manage your resources. Consider writin
 |------|----------|---------|
 | Environment | `env:dev`, `env:test`, `env:stage`, `env:prod` | Tag resources to identify development environment.|
 | Project | `project:lw-wizard`, `app:poc-app` | Tag resources to identify a project. |
-| Compliance | `dataresidency:germany`, `compliance:hippa`, `compliance:pii` | Tag resources to define compliance requirements |
+| Compliance | `dataresidency:germany`, `compliance:hipaa`, `compliance:pii` | Tag resources to define compliance requirements |
 | Optimization | `schedule:24x7`, `maxruntime:12days` | Tag resources to help you automate optimization. |
 {:caption="Table 1. Tag syntax" caption-side="top"}

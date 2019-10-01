@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017, 2019
-lastupdated: "2019-05-21"
+lastupdated: "2019-08-29"
 
 keywords: resource group, account resources, users access to resource groups, create resource group
 
@@ -23,7 +23,7 @@ subcollection: resources
 # Creating and managing resource groups
 {: #rgs}
 
-A resource group is a way for you to organize your account resources in customizable groupings so that you can quickly assign users access to more than one resource at a time. Any account resource that is managed by using {{site.data.keyword.Bluemix}} Identity and Access Management (IAM) access control belongs to a resource group within your account. Cloud Foundry services are assigned to orgs and spaces and can't be added to a resource group.
+A resource group is a way for you to organize your account resources in customizable groupings so that you can quickly assign users access to more than one resource at a time. Any account resource that is managed by using {{site.data.keyword.Bluemix}} Identity and Access Management (IAM) access control belongs to a resource group within your account. The only exception is Kubernetes, which doesn't prompt you for a resource group assignment, but access to the service is controlled by using IAM roles. Cloud Foundry services are assigned to orgs and spaces and can't be added to a resource group.
 
 To start managing your resource groups, go to **Manage** &gt; **Account**. Expand **Account resources** and then select **Resource groups**. From there you can view your resource groups, add resources, rename them, manage access, and create new resource groups. For more information about working with resource groups, see [Best practices for organizing resources in resource groups](/docs/resources?topic=resources-bp_resourcegroups).
 
@@ -33,7 +33,7 @@ To start managing your resource groups, go to **Manage** &gt; **Account**. Expan
 
 If you have a Pay-As-You-Go or Subscription account, you can create multiple resource groups to easily manage quota and view billing usage for a set of resources. You can also group resources to make it easier for you to assign users access to more than one instance at a time. It's important to note that you can rename a resource group, but you can't delete a resource group after it's created.
 
-You must be assigned an IAM policy with the Administrator role on All Account Management services to create more resource groups. If you have a Lite account or 30-day trial, you can't create extra resource groups, but you can rename your default resource group.
+You must be assigned an IAM policy with the Administrator role on All Account Management services to create additional resource groups. If you have a Lite account or 30-day trial, you can't create extra resource groups, but you can rename your default resource group.
 
 Connections between a resource group and a Cloud Foundry org or space are restricted by your quota. For more information, see [What is an alias?](/docs/resources?topic=resources-connect_app#what_is_alias).
 {: note}
