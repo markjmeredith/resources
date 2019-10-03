@@ -40,6 +40,7 @@ Working with resources and services
 
     {: .navgroup id="reference"}
     tagging_sample_syntax.md
+    crn.md
     
     {: .topicgroup}
     Command reference
