@@ -4,7 +4,7 @@ copyright:
 
   years: 2017, 2019
 
-lastupdated: "2019-09-13"
+lastupdated: "2019-10-07"
 
 keywords: crn, cloud resource name, resources, cloud catalog
 
@@ -144,7 +144,7 @@ Some resources do not require a region, as they can be considered global. In thi
 
 The `scope` segment identifies the containment or owner of the resource. Some resources do not require an owner (they can be considered `global`). In this case, the `scope` segment is empty (a blank string).
 
-The value of the `scope` segment must be formatted as `{scopePrefix}`/`{id}`. The `scopePrefix` represents the format taht is used to identify the owner or containment. The `id` represents the identity of the owner or containment in a format that is specific to the `scopePrefix`.
+The value of the `scope` segment must be formatted as `{scopePrefix}`/`{id}`. The `scopePrefix` represents the format that is used to identify the owner or containment. The `id` represents the identity of the owner or containment in a format that is specific to the `scopePrefix`.
 
 | Scope Type | Scope Prefix | Usage | Example |
 | --- | --- | --- | --- |
