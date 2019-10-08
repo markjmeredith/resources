@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-10-07"
+lastupdated: "2019-10-08"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -81,7 +81,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Event Streams | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Floating IP for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Functions | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Geospatial Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Globalization Pipeline | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Historical Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect Crypto Services | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -201,7 +200,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Event Streams | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Floating IP for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Functions | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Geospatial Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Globalization Pipeline | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Historical Instrument Analytics |  |  | 
 | Hyper Protect Crypto Services |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -321,7 +319,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Event Streams | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Floating IP for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Functions |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Geospatial Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | Globalization Pipeline | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Historical Instrument Analytics |  |  | 
 | Hyper Protect Crypto Services | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
