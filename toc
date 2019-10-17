@@ -15,6 +15,7 @@ Working with resources and services
     resourcegroups.md
     instance_migration.md
     searching.md
+    access-report.md
 
     {: .topicgroup}
     Tagging resources
