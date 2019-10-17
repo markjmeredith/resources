@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-10-16"
+lastupdated: "2019-10-17"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -86,7 +86,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Hyper Protect Virtual Servers | Hosted Globally | Hosted Globally | 
+| Hyper Protect Virtual Server | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -205,7 +205,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for PostgreSQL |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Hyper Protect Virtual Servers | Hosted Globally | Hosted Globally | 
+| Hyper Protect Virtual Server | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -324,7 +324,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Hyper Protect Virtual Servers | Hosted Globally | Hosted Globally | 
+| Hyper Protect Virtual Server | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded |  |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
