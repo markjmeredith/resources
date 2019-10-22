@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-10-21"
+lastupdated: "2019-10-22"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -120,7 +120,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Real-Time Payments | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SQL Query | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Schematics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Schematics workspace | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Security Advisor | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -129,7 +129,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Simulated Instruments Analytics API | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Subnet for VPC |  |  | 
+| Subnet |  |  | 
 | Text to Speech | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Tone Analyzer | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Toolchain | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -239,7 +239,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Real-Time Payments |  |  | 
 | SQL Query |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Schematics |  |  | 
+| Schematics workspace |  |  | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
 | Security Advisor | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -248,7 +248,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Simulated Instruments Analytics API |  |  | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Subnet for VPC |  |  | 
+| Subnet |  |  | 
 | Text to Speech | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Tone Analyzer | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Toolchain | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -358,7 +358,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Real-Time Payments |  |  | 
 | SQL Query |  |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Schematics |  |  | 
+| Schematics workspace |  |  | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | Security Advisor |  |  | 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -367,7 +367,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Simulated Instruments Analytics API |  |  | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics |  |  | 
-| Subnet for VPC |  |  | 
+| Subnet |  |  | 
 | Text to Speech | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Tone Analyzer | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Toolchain |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
