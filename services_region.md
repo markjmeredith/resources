@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-10-23"
+lastupdated: "2019-10-24"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -142,7 +142,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Assistant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Watson OpenScale | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Watson Studio | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Weather Company Data | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | WebSphere Application Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 {: row-headers}
 {: caption="Table 1. Service availability - Americas" caption-side="top"}
@@ -261,7 +260,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Assistant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Watson OpenScale |  |  | 
 | Watson Studio | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Weather Company Data | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | WebSphere Application Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 {: row-headers}
 {: caption="Table 2. Service availability - Europe" caption-side="top"}
@@ -380,7 +378,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Watson Assistant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Watson OpenScale |  |  | 
 | Watson Studio |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Weather Company Data | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | WebSphere Application Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 {: row-headers}
 {: caption="Table 3. Service availability - Asia Pacific" caption-side="top"}
