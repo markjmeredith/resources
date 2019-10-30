@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-05-08"
+lastupdated: "2019-10-30"
 
 keywords: search, find,
 
@@ -59,7 +59,7 @@ You can search for the following attributes:
 <dt>`region`</dt>
 <dd>The geographical location where the resource is provisioned. The allowed values are `us-south`, `us-east`, `au-syd`, `eu-gb`, `eu-de`, and `jp-tok`.</dd>
 <dt>`service_name`</dt>
-<dd>The name of the service as it appears in the Name column of the output of 'ibmcloud catalog service-marketplace'.</dd>
+<dd>The name of the service as it appears in the Name column of the output of `ibmcloud catalog service-marketplace`.</dd>
 <dt>`family`</dt>
 <dd>The cloud component to which your resource belongs. The allowed values are `cloud_foundry`, `containers`, `vmware`, `resource_controller` or `ims`.</dd></dd>
 <dt>`organization_id`</dt>
