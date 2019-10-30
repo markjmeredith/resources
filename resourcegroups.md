@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017, 2019
-lastupdated: "2019-08-29"
+lastupdated: "2019-10-30"
 
 keywords: resource group, account resources, users access to resource groups, create resource group
 
@@ -35,7 +35,7 @@ If you have a Pay-As-You-Go or Subscription account, you can create multiple res
 
 You must be assigned an IAM policy with the Administrator role on All Account Management services to create additional resource groups. If you have a Lite account or 30-day trial, you can't create extra resource groups, but you can rename your default resource group.
 
-Connections between a resource group and a Cloud Foundry org or space are restricted by your quota. For more information, see [What is an alias?](/docs/resources?topic=resources-connect_app#what_is_alias).
+Connections between a resource group and a Cloud Foundry org or space are restricted by your quota. See [What is an alias?](/docs/resources?topic=resources-connect_app#what_is_alias) for more information.
 {: note}
 
 1. Go to **Manage** &gt; **Account**. Expand **Account resources** and then select **Resource groups**.
