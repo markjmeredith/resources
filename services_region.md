@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-10-31"
+lastupdated: "2019-11-01"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -74,7 +74,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Db2 Hosted | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Db2 Warehouse | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| DevOps Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Digital Content Checker | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Discovery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Event Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -192,7 +191,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Db2 Hosted | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Db2 Warehouse | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| DevOps Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Digital Content Checker | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Discovery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Event Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -227,7 +225,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Messages for RabbitMQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Monitoring | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
-| Natural Language Classifier |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
@@ -310,7 +308,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Db2 Hosted | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Db2 Warehouse | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| DevOps Insights |  |  | 
 | Digital Content Checker | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | Discovery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Event Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -345,7 +342,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Messages for RabbitMQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Monitoring | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Natural Language Classifier |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
