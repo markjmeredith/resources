@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-11-12"
+lastupdated: "2019-11-13"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -85,7 +85,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Hyper Protect Virtual Servers | Hosted Globally | Hosted Globally | 
+| Hyper Protect Virtual Servers | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -117,11 +117,11 @@ Services that are hosted globally create resources that operate across multiple 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SQL Query | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Schematics workspace | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Security Advisor | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Simulated Historical Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Simulated Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Simulated Instruments Analytics API | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -201,7 +201,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for PostgreSQL |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Hyper Protect Virtual Servers | Hosted Globally | Hosted Globally | 
+| Hyper Protect Virtual Servers |  |  | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -317,7 +317,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Hyper Protect Virtual Servers | Hosted Globally | Hosted Globally | 
+| Hyper Protect Virtual Servers |  |  | 
 | IBM Cognos Dashboard Embedded |  |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
