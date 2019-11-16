@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-11-15"
+lastupdated: "2019-11-16"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -44,7 +44,7 @@ Services that are hosted globally create resources that operate across multiple 
 | BigInsights for Apache Hadoop (Subscription) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Block Storage for VPC |  |  | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
@@ -276,7 +276,7 @@ Services that are hosted globally create resources that operate across multiple 
 | BigInsights for Apache Hadoop (Subscription) |  |  | 
 | Block Storage for VPC |  |  | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
-| Blockchain Platform |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
